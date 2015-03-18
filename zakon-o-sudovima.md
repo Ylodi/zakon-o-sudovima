@@ -1,28 +1,30 @@
 HRVATSKI SABOR
 
-473
+679
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
 ODLUKU
 
-O PROGLAŠENJU ZAKONA O SUDOVIMA
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA
 
-Proglašavam Zakon o sudovima, koji je Hrvatski sabor donio na sjednici 22. veljače 2013. godine.
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudovima, koji Hrvatski sabor donio na sjednici 13. ožujka 2015. godine.
 
-Klasa: 011-01/13-01/37
+Klasa: 011-01/15-01/22
 
-Urbroj: 71-05-03/1-13-2
+Urbroj: 71-05-03/1-15-2
 
-Zagreb, 28. veljače 2013.
+Zagreb, 18. ožujka 2015.
 
-Predsjednik
+Predsjednica
 
 Republike Hrvatske
 
-Ivo Josipović, v. r.
+Kolinda Grabar-Kitarović, v. r.
 
-ZAKON O SUDOVIMA
+ZAKON
+
+O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA
 
 I. OPĆE ODREDBE
 
@@ -94,11 +96,17 @@ Plaće sudaca uređuju se zakonom.
 
 (2) Pravomoćan godišnji raspored poslova predsjednik suda dužan je dostaviti predsjedniku neposredno višeg suda i Ministarstvu pravosuđa.
 
+(3) Utvrđen godišnji raspored poslova mora se u tijeku godine mijenjati zbog znatnijeg povećanja ili smanjenja broja predmeta određene vrste, zbog neujednačenosti dodjele u prethodnom razdoblju, zbog potrebe da se pojedinim vrstama predmeta, odnosno pravnih stvari odredi prvenstvo rješavanja, zbog dulje odsutnosti suca, sudskog savjetnika ili drugog zaposlenika, kao i iz drugih opravdanih razloga.
+
+(4) Više tijelo sudske uprave može po službenoj dužnosti ili povodom prigovora i primjedbi izmijeniti ili dopuniti godišnji raspored poslova, ukinuti i vratiti ga na dopunu predsjedniku suda koji ga je donio, odnosno potvrditi doneseni godišnji raspored poslova.
+
+(5) Predsjednik Vrhovnog suda Republike Hrvatske će svaka tri mjeseca održavati zajedničke sastanke s predsjednicima svih županijskih sudova na kojima će raspraviti i utvrditi je li došlo do znatnijeg povećanja ili smanjenja broja određene vrste drugostupanjskih predmeta županijskih sudova, neujednačenosti dodjele drugostupanjskih predmeta u prethodnom razdoblju, potrebe da se pojedinim vrstama tih predmeta, odnosno pravnih stvari odredi prvenstvo rješavanja ili postoje drugi opravdani razlozi za izmjenama godišnjih rasporeda poslova županijskih sudova.
+
 Članak 11.
 
-(1) Predsjednik Vrhovnog suda Republike Hrvatske će odrediti da u pojedinoj vrsti predmeta postupa drugi stvarno i mjesno nadležni sud, ako sud koji je po zakonu stvarno i mjesno nadležan zbog velikog broja predmeta koje ima u radu ne može u razumnom roku raspraviti te predmete i donijeti odluku, zbog postizanja ravnomjerne opterećenosti sudova ili zbog promjena u stvarnoj i mjesnoj nadležnosti sudova.
+(1) Predsjednik zajedničkog neposredno višeg suda će odrediti da u pojedinoj vrsti predmeta postupa drugi stvarno i mjesno nadležni sud, ako sud koji je po zakonu stvarno i mjesno nadležan zbog velikog broja predmeta koje ima u radu ne može u razumnom roku raspraviti te predmete i donijeti odluku, zbog postizanja ravnomjerne opterećenosti sudova ili zbog promjena u stvarnoj i mjesnoj nadležnosti sudova.
 
-(2) Prijedlog za donošenje rješenja iz stavka 1. ovog članka mogu dati predsjednik suda i ministar pravosuđa. Predsjednik Vrhovnog suda Republike Hrvatske odredit će rješenjem koji se predmeti ustupaju na suđenje drugom stvarno i mjesno nadležnom sudu.
+(2) Prijedlog za donošenje rješenja iz stavka 1. ovog članka mogu dati predsjednik suda i ministar pravosuđa. Predsjednik zajedničkog neposredno višeg suda odredit će rješenjem koji se predmeti ustupaju na suđenje drugom stvarno i mjesno nadležnom sudu.
 
 (3) Sud prvog stupnja kojem je predmet ustupljen o tome će obavijestiti stranke, odnosno njihove punomoćnike ili zastupnike uz prvo pismeno koje im bude upućeno.
 
@@ -144,7 +152,7 @@ II. USTROJSTVO, DJELOKRUG I NADLEŽNOST SUDOVA
 
 (1) Općinski i prekršajni sudovi ustanovljavaju se za područje jedne ili više općina, jednog ili više gradova ili dijela gradskog područja.
 
-(2) Županijski, trgovački i upravni sudovi ustanovljavaju se za područje jedne ili više županija.
+(2) Županijski, trgovački i upravni sudovi ustanovljavaju se za područje jedne ili više županija ili dijela županije.
 
 (3) Visoki trgovački sud Republike Hrvatske, Visoki upravni sud Republike Hrvatske i Visoki prekršajni sud Republike Hrvatske ustanovljavaju se za područje Republike Hrvatske sa sjedištem u Zagrebu.
 
@@ -152,13 +160,19 @@ II. USTROJSTVO, DJELOKRUG I NADLEŽNOST SUDOVA
 
 Članak 16.
 
-(1) Sudovi sude u svom sjedištu.
+(1) Sudovi obavljaju sudbenu vlast u svom sjedištu.
 
-(2) Općinski, županijski, trgovački, upravni i prekršajni sudovi mogu iznimno obavljati sudbenu vlast i izvan sjedišta suda, u određene sudbene dane ili osnivanjem stalnih službi ili odjela.
+(2) Općinski, županijski, trgovački, upravni i prekršajni sudovi mogu iznimno obavljati sudbenu vlast i izvan sjedišta suda u stalnim službama i odjelima.
 
-(3) Odluku o održavanju sudbenih dana donosi ministar pravosuđa.
+(3) Stalna služba i odjel iz stavka 2. ovog članka su ustrojstvene jedinice suda koje se osnivaju na području njegove nadležnosti, na kojem zbog broja stanovnika, priliva pojedine vrste predmeta i drugih opravdanih razloga postoji potreba za takvim djelovanjem suda.
 
-(4) Odluku o osnivanju stalnih službi ili odjela izvan sjedišta suda donosi ministar pravosuđa.
+(4) Sudovi iz stavka 2. ovog članka sudbenu vlast mogu obavljati i održavanjem sudbenih dana izvan sjedišta.
+
+(5) Odluku o osnivanju i prestanku rada stalnih službi i odjela izvan sjedišta suda donosi ministar pravosuđa.
+
+(6) Odluku o održavanju i prestanku održavanja sudbenih dana donosi ministar pravosuđa uz prethodno mišljenje predsjednika suda.
+
+(7) Prijedlog za donošenje odluke iz stavaka 5. i 6. ovog članka mogu podnijeti predsjednik suda, predsjednik neposredno višeg suda i predsjednik Vrhovnog suda Republike Hrvatske.
 
 2. Djelokrug i nadležnost sudova
 
@@ -298,7 +312,9 @@ Visoki prekršajni sud Republike Hrvatske:
 
 (2) Viši sud može tražiti od nižeg suda podatke u svezi s primjenom zakona, problemima koji se javljaju u suđenju, praćenju i proučavanju sudske prakse te druge podatke, a može izvršiti i neposredan nadzor nad radom tog suda i pojedinih sudaca, kao i organizirati zajedničke sastanke radi razmatranja navedenih pitanja.
 
-(3) Viši sud prigodom provedbe ovlaštenja iz stavaka 1. i 2. ovoga članka ne smije ni na koji način utjecati na neovisnost i slobodu suda nižeg stupnja u donošenju odluke u pojedinom predmetu.
+(3) Vrhovni sud Republike Hrvatske će radi razmatranja spornih pravnih pitanja koja se odnose na drugostupanjsko sudovanje, u svrhu ujednačavanja sudske prakse, svakih šest mjeseci, a po potrebi i češće, organizirati zajednički sastanak s predsjednicima sudskih odjela svih županijskih sudova. Zaključci sa sastanka objavit će se na internetskoj stranici Vrhovnog suda Republike Hrvatske.
+
+(4) Viši sud prigodom provedbe ovlaštenja iz stavaka 1., 2. i 3. ovoga članka ne smije ni na koji način utjecati na neovisnost i slobodu suda nižeg stupnja u donošenju odluke u pojedinom predmetu.
 
 Članak 28.
 
@@ -348,6 +364,8 @@ Poslovi sudske uprave obuhvaćaju:
 
 17. davanje obavijesti o radu suda i druge poslove propisane zakonom i Sudskim poslovnikom.
 
+(2) Ministar pravosuđa posebnim pravilnikom propisat će način rada odjela za podršku žrtvama i svjedocima te postupak osiguranja podrške žrtvama i svjedocima u sudskim postupcima.
+
 1.1. Predsjednik suda
 
 Članak 30.
@@ -358,7 +376,7 @@ Poslovi sudske uprave obuhvaćaju:
 
 (3) Predsjednika suda u slučaju spriječenosti ili odsutnosti u obavljanju poslova sudske uprave zamjenjuje sudac određen godišnjim rasporedom poslova (zamjenik predsjednika suda).
 
-(4) Predsjedniku suda u poslovima sudske uprave pomažu zamjenik, ravnatelj sudske uprave, predsjednici odjela, tajnik suda ili službenik kojeg odredi predsjednik suda.
+(4) Predsjedniku suda u poslovima sudske uprave pomažu ravnatelj sudske uprave, predsjednici odjela, tajnik suda, voditelj stalne službe ili službenik kojeg odredi predsjednik suda.
 
 (5) Predsjednik neposredno višeg suda je više tijelo sudske uprave. Najviše tijelo sudske uprave je predsjednik Vrhovnog suda Republike Hrvatske.
 
@@ -384,11 +402,13 @@ Poslovi sudske uprave obuhvaćaju:
 
 (1) Predsjednik suda odgovoran je za pravilno i zakonito obavljanje poslova sudske uprave u sudu.
 
-(2) Predsjednik suda, osim predsjednika Vrhovnog suda Republike Hrvatske, dužan je jednom godišnje, najkasnije do 31. ožujka za prethodnu godinu, podnijeti izvješće neposredno višem sudu, Državnom sudbenom vijeću i Ministarstvu pravosuđa o obavljenim poslovima sudske uprave, mjerama i aktivnostima poduzetim za unapređenje rada i učinkovitosti suda u rješavanju predmeta, a posebno o mjerama poduzetim radi ostvarenja svog programa rada.
+(2) Predsjednik suda, osim predsjednika Vrhovnog suda Republike Hrvatske, dužan je do 31. siječnja predsjedniku neposredno višeg suda, Državnom sudbenom vijeću i Ministarstvu pravosuđa podnijeti izvješće o obavljenim poslovima sudske uprave u prethodnoj godini te plan poslova sudske uprave, posebno mjera i aktivnosti za unapređenje rada i učinkovitosti suda u rješavanju predmeta, kao i očekivanih rezultata rada suda za tekuću godinu.
+
+(3) Izvješće i plan iz stavka 2. ovog članka dostavljaju se na obrascu propisanom Sudskim poslovnikom.
 
 Članak 34.
 
-(1) Ako predsjednik suda prestane obnašati svoju dužnost, ministar pravosuđa ovlastit će suca tog ili višeg suda da, za vrijeme koje ne može biti dulje od jedne godine, obavlja poslove sudske uprave, dok predsjednik ne bude imenovan.
+(1) Ako predsjednik suda prestane obnašati svoju dužnost, ministar pravosuđa, uz prethodno mišljenje predsjednika Vrhovnog suda Republike Hrvatske, ovlastit će suca suda iste vrste i istog stupnja ili suca višeg suda da, za vrijeme koje ne može biti dulje od jedne godine, obavlja poslove sudske uprave, dok predsjednik suda ne bude imenovan.
 
 (2) Kada predsjednici sudova prestanu obnašati svoju dužnost radi spajanja sudova, ministar pravosuđa ovlastit će suca jednog od tih sudova ili suca višeg suda da za vrijeme, koje ne može biti dulje od jedne godine, obavlja poslove sudske uprave dok ne bude imenovan predsjednik spojenog suda.
 
@@ -451,6 +471,18 @@ Poslovi sudske uprave obuhvaćaju:
 – obavlja i druge poslove utvrđene posebnim zakonima.
 
 (4) Tajnik suda za svoj rad odgovara predsjedniku suda.
+
+1.4. Voditelj stalne službe
+
+Članak 36.a
+
+(1) Stalna služba može imati voditelja stalne službe.
+
+(2) Voditelj stalne službe je sudac određen godišnjim rasporedom poslova.
+
+(3) Voditelj stalne službe pomaže predsjedniku suda u obavljanju poslova sudske uprave.
+
+(4) Voditelj stalne službe za svoj rad odgovara predsjedniku suda.
 
 2. Sudski odjeli
 
@@ -520,7 +552,7 @@ IV. POSEBNE ODREDBE O UNUTARNJEM USTROJSTVU VRHOVNOG SUDA REPUBLIKE HRVATSKE
 
 Članak 43.
 
-(1) U Vrhovnom sudu Republike Hrvatske osnivaju se Kazneni odjel i Građanski odjel, ustanovljuju se službe za praćenje, proučavanje i bilježenje sudske prakse pri odjelima, služba za praćenje i proučavanje prakse sudova koji odlučuju na razini Vijeća Europe ili Europske unije, Ured predsjednika, odjel ili služba za informatiku te jedinice stručnih i pomoćno-tehničkih službi.
+(1) U Vrhovnom sudu Republike Hrvatske osnivaju se sljedeće ustrojstvene jedinice: Ured predsjednika, Kazneni odjel, Građanski odjel, ustrojstvene jedinice za praćenje, proučavanje i bilježenje sudske prakse pri odjelima te za praćenje i proučavanje sudske prakse sudova pri Vijeću Europe i Europske unije, Centar sudske prakse te ustrojstvene jedinice za poslove sudske uprave.
 
 (2) Građanski odjel obuhvaća područja građanskog, trgovačkog i upravnog prava.
 
@@ -528,11 +560,17 @@ IV. POSEBNE ODREDBE O UNUTARNJEM USTROJSTVU VRHOVNOG SUDA REPUBLIKE HRVATSKE
 
 (4) Suci se raspoređuju u odjele godišnjim rasporedom poslova.
 
-(5) U Uredu predsjednika obavljaju se poslovi sudske uprave, poslovi međunarodne suradnje, poslovi izobrazbe sudaca i poslovi protokola za potrebe toga suda.
+(5) Centar sudske prakse prati, analizira i objavljuje sudsku praksu sudova u Republici Hrvatskoj i praksu sudova koji odlučuju na razini Vijeća Europe i Europske unije. Voditelj Centra sudske prakse je sudac Vrhovnog suda Republike Hrvatske određen godišnjim rasporedom poslova.
 
-(6) Na poslove protokola Vrhovnog suda Republike Hrvatske na odgovarajući se način primjenjuju propisi o protokolu Hrvatskoga sabora i Vlade Republike Hrvatske. Vrhovni sud može za svoje poslove protokola upotrebljavati objekte koji su u tu svrhu na raspolaganju Hrvatskom saboru i Vladi Republike Hrvatske.
+(6) Centar sudske prakse djeluje i kroz područne centre pri županijskim sudovima u Osijeku, Rijeci, Splitu, Varaždinu i Zagrebu, čije voditelje imenuje predsjednik Vrhovnog suda Republike Hrvatske iz reda sudaca županijskog suda uz prethodno mišljenje predsjednika suda pri kojem Centar sudske prakse djeluje.
 
-(7) Unutarnje ustrojstvo Vrhovnog suda Republike Hrvatske pobliže se uređuje Poslovnikom tog suda i Sudskim poslovnikom, sukladno zakonu. Poslovnik Vrhovnog suda Republike Hrvatske donosi predsjednik suda nakon pribavljenog mišljenja Opće sjednice.
+(7) Unutarnje ustrojstvo i način rada Centra sudske prakse pobliže se uređuje Poslovnikom o radu Vrhovnog suda Republike Hrvatske.
+
+(8) U Uredu predsjednika obavljaju se poslovi sudske uprave, poslovi međunarodne suradnje, poslovi izobrazbe sudaca i poslovi protokola za potrebe toga suda.
+
+(9) Na poslove protokola Vrhovnog suda Republike Hrvatske na odgovarajući se način primjenjuju propisi o protokolu Hrvatskoga sabora i Vlade Republike Hrvatske. Vrhovni sud može za svoje poslove protokola upotrebljavati objekte koji su u tu svrhu na raspolaganju Hrvatskom saboru i Vladi Republike Hrvatske.
+
+(10) Unutarnje ustrojstvo Vrhovnog suda Republike Hrvatske pobliže se uređuje Poslovnikom tog suda i Sudskim poslovnikom, sukladno zakonu. Poslovnik Vrhovnog suda Republike Hrvatske donosi predsjednik suda nakon pribavljenog mišljenja Opće sjednice.
 
 Članak 44.
 
@@ -550,7 +588,7 @@ IV. POSEBNE ODREDBE O UNUTARNJEM USTROJSTVU VRHOVNOG SUDA REPUBLIKE HRVATSKE
 
 Članak 45.
 
-(1) Predsjednik Vrhovnog suda Republike Hrvatske dužan je jednom godišnje Hrvatskom saboru podnijeti izvješće o stanju sudbene vlasti u protekloj godini.
+(1) Predsjednik Vrhovnog suda Republike Hrvatske dužan je jednom godišnje, najkasnije do 30. travnja tekuće godine, Hrvatskom saboru podnijeti izvješće o stanju sudbene vlasti u protekloj godini.
 
 (2) U godišnjem izvješću predsjednik Vrhovnog suda Republike Hrvatske može upozoriti na stanje i djelovanje sudbene vlasti, organizacijske probleme u sudovima i nedostatke u zakonodavstvu te dati prijedloge za unaprjeđenje rada sudova.
 
@@ -638,7 +676,9 @@ V. SUDAČKO VIJEĆE
 
 (2) Članove sudačkog vijeća trgovačkih, upravnih i prekršajnih sudova iz reda sudaca Visokog trgovačkog suda Republike Hrvatske, Visokog upravnog suda Republike Hrvatske i Visokog prekršajnog suda Republike Hrvatske biraju suci tih sudova, a članove iz reda sudaca trgovačkih, upravnih i prekršajnih sudova suci tih sudova.
 
-(3) Općinski sud, trgovački sud, upravni sud i prekršajni sud ne mogu u sudačkom vijeću imati više od tri člana iz reda sudaca istog suda.
+(3) Trgovački sud, upravni sud i prekršajni sud ne mogu u sudačkom vijeću imati više od tri člana iz reda sudaca istog suda.
+
+(4) Ako na području nadležnosti županijskog suda ima više općinskih sudova, općinski sud ne može u sudačkom vijeću imati više od četiri člana iz reda sudaca istog suda.
 
 Članak 54.
 
@@ -806,7 +846,7 @@ VII. PRAVOSUDNA UPRAVA
 
 (3) Ministar pravosuđa u obavljanju poslova pravosudne uprave može poništiti ili ukinuti svaki nepravilan ili nezakonit akt donesen u obavljanju poslova sudske uprave ili sam donijeti akt koji nije donesen ili nije pravodobno donesen.
 
-(4) Ministar pravosuđa donosi odluku o načinu korištenja informatičkih sustava u sudovima.
+(4) Ministar pravosuđa donosi pravilnike o načinu rada i korištenja informacijskih sustava koji su u primjeni u poslovanju sudova.
 
 Članak 72.
 
@@ -894,7 +934,9 @@ Broj sudaca u pojedinom sudu određuje ministar pravosuđa u skladu s mjerilima 
 
 (2) Ministar pravosuđa upozorit će Opću sjednicu Vrhovnog suda Republike Hrvatske na potrebu donošenja Okvirnih mjerila za rad sudaca te njihovih izmjena ili dopuna kada to nalažu izmjene propisa ili provedba drugih mjera iz ovlasti Ministarstva pravosuđa.
 
-(3) Ako Opća sjednica Vrhovnog suda Republike Hrvatske ne postupi po upozorenju ministra pravosuđa, predsjednik Vrhovnog suda Republike Hrvatske dužan je ministra pravosuđa izvijestiti o razlozima u roku od 30 dana.
+(3) Ako Opća sjednica Vrhovnog suda Republike Hrvatske ne dostavi prijedlog Okvirnih mjerila za rad sudaca u roku od dva mjeseca od dana upozorenja iz stavka 2. ovog članka, ministar pravosuđa donijet će Okvirna mjerila za rad sudaca i bez tog prijedloga.
+
+(4) Okvirna mjerila objavljuju se na internetskoj stranici Ministarstva pravosuđa.
 
 VIII. PRAVOSUDNA INSPEKCIJA
 
@@ -904,7 +946,7 @@ VIII. PRAVOSUDNA INSPEKCIJA
 
 (2) Poslove pravosudnog inspektora mogu obavljati osobe koje ispunjavaju uvjete za suca županijskog suda.
 
-(3) Nadzor nad materijalnim i financijskim poslovanjem sudova obavljaju viši stručni savjetnici i stručni savjetnici Ministarstva pravosuđa.
+(3) Nadzor nad obavljanjem poslova sudske uprave iz članka 29. točaka 3., 4., 10., 11., 12. i 13. ovog Zakona mogu obavljati i službenici Ministarstva pravosuđa koji ispunjavaju uvjete za višeg stručnog savjetnika ili višeg upravnog savjetnika.
 
 Članak 81.
 
@@ -956,15 +998,13 @@ Sudac obnaša sudačku dužnost samostalno ili sudjelujući u radu sudskog vije�
 
 (1) Poslovi u sudu raspoređuju se na kraju svake kalendarske godine za sljedeću godinu.
 
-(2) U sudovima u kojima nisu ustrojeni sudski odjeli predmeti se raspoređuju po abecednom redu prezimena sudaca, tako da svaki sudac dobije iz svakog upisnika po jedan predmet sve dok se svi predmeti ne rasporede.
+(2) U sudovima se predmeti u rad sucima dodjeljuju automatskom nasumičnom dodjelom, primjenom odgovarajućeg algoritma.
 
-(3) U sudovima u kojima su ustrojeni sudski odjeli predmeti se raspoređuju po abecednom redu prezimena sudaca u odjelu.
+(3) Ako u sudu nije u primjeni sustav za automatsku dodjelu predmeta, predmeti se sucima dodjeljuju ručno, po redoslijedu njihovog primitka, slijedeći abecedni red prezimena sudaca.
 
-(4) Sudskim vijećima sudova drugog i trećeg stupnja predmeti se raspoređuju po abecednom redu prezimena predsjednika vijeća. Predsjednik sudskog vijeća raspoređuje predmete u rad članovima vijeća po abecednom redu njihovih prezimena.
+(4) Prilikom dodjele predmeta u rad na način propisan stavcima 2. i 3. ovoga članka vodit će se računa o ravnomjernoj podjeli predmeta te vrsti i složenosti predmeta.
 
-(5) Prilikom rasporeda predmeta vodit će se računa o ravnomjernom rasporedu predmeta te vrsti i složenosti predmeta.
-
-(6) U sudovima u kojima je u primjeni sustav za automatsku dodjelu predmeta, predmeti se u rad sucima raspoređuju nasumično.
+(5) Postupak dodjele predmeta u rad sucima uredit će se Sudskim poslovnikom.
 
 2. Prava suca
 
@@ -996,16 +1036,21 @@ Sudac obnaša sudačku dužnost samostalno ili sudjelujući u radu sudskog vije�
 
 Članak 88.
 
-(1) Ako sudac bude imenovan za ministra pravosuđa, zamjenika ministra ili pomoćnika ministra u Ministarstvu pravosuđa, suca Ustavnog suda Republike Hrvatske ili na prijedlog Vlade Republike Hrvatske bude imenovan za suca međunarodnog suda ili na neku drugu dužnost u međunarodnim sudovima, međunarodnim misijama ili organizacijama, sudačka dužnost mu miruje dok obnaša dužnost na koju je imenovan.
+(1) Ako sudac bude imenovan za ministra pravosuđa, zamjenika ministra ili pomoćnika ministra u Ministarstvu pravosuđa ili suca Ustavnog suda Republike Hrvatske, sudačka dužnost mu miruje dok obnaša dužnost na koju je imenovan.
 
-(2) Sudac uz svoj pristanak može biti raspoređen i na druge poslove u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće na vrijeme do četiri godine. Za vrijeme na koje je sudac raspoređen u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće sudačka dužnost mu miruje.
+(2) Sudac uz svoj pristanak može biti raspoređen i na druge poslove u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće na vrijeme do četiri godine. Za vrijeme na koje je sudac raspoređen u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće sudačka dužnost mu miruje. Rješenje o rasporedu suca u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće donosi ministar pravosuđa uz suglasnost predsjednika Vrhovnog suda Republike Hrvatske.
 
-(3) Sucu se vrijeme provedeno na poslovima iz stavaka 1. i 2. ovog članka priznaje kao vrijeme provedeno u obavljanju sudačke dužnosti.
+(3) U slučajevima iz stavaka 1. i 2. ovoga članka sudac ima pravo na plaću koja je za njega povoljnija.
 
-(4) U slučaju iz stavaka 1. i 2. ovoga članka sudac ima pravo na plaću koja je za njega povoljnija.
+(4) Sucu koji na prijedlog Vlade Republike Hrvatske bude imenovan za suca međunarodnog suda ili na neku drugu dužnost u međunarodnim sudovima, međunarodnim misijama ili međunarodnim organizacijama miruju sva prava i dužnosti koje proizlaze iz obnašanja sudačke dužnosti u tijelima sudbene vlasti Republike Hrvatske.
 
-(5) Rješenje o rasporedu suca prema stavku 2. ovoga članka donosi ministar pravosuđa uz suglasnost predsjednika Vrhovnog suda Republike Hrvatske.
+(5) Prava i dužnosti koje proizlaze iz obnašanja sudačke dužnosti miruju i sucu koji bude imenovan ili izabran za rad u institucijama, agencijama, tijelima, uredima, misijama i projektima Europske unije ili za rad u drugim međunarodnim organizacijama, institucijama, tijelima, misijama i projektima za vrijeme na koje je imenovan ili izabran. Odluku o mirovanju prava i dužnosti suca donosi predsjednik suda u kojem sudac obnaša dužnost, uz prethodnu suglasnost ministra pravosuđa i predsjednika Vrhovnog suda Republike Hrvatske.
 
+(6) Sudačka dužnost miruje i sucu koji sudjeluje u programima razmjene ili bude upućen u institucije, agencije, tijela ili urede Europske unije ili druge međunarodne organizacije, institucije, tijela, misije i projekte za vrijeme trajanja razmjene ili upućivanja. Odluku o mirovanju sudačke dužnosti donosi predsjednik suda u kojem sudac obnaša dužnost. Za vrijeme trajanja razmjene ili upućivanja sudac ostvaruje pravo na plaću utvrđenu za suca suda u kojem je imenovan.
+
+(7) Sucu se vrijeme provedeno na poslovima iz stavaka 1., 2., 4., 5. i 6. ovog članka priznaje kao vrijeme provedeno u obnašanju sudačke dužnosti.
+
+(8) Ministar pravosuđa pravilnikom će propisati postupak razmjene i upućivanja sudaca u institucije, agencije, tijela ili urede Europske unije ili druge međunarodne organizacije, institucije, tijela, misije i projekte.
 3. Dužnosti suca
 
 Članak 89.
@@ -1222,10 +1267,6 @@ XI. SUDSKI SLUŽBENICI I NAMJEŠTENICI
 
 (4) Viši sudski savjetnik u Vrhovnom sudu može biti osoba koja je najmanje četiri godine radila kao sudski savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik, odnosno osoba koja je najmanje deset godina nakon položenog pravosudnog ispita radila na drugim pravnim poslovima.
 
-(5) Polaznici Državne škole za pravosudne dužnosnike koji su sudski savjetnici raspoređuju se na mjesto viši sudski savjetnik na neodređeno vrijeme. Polaznici Državne škole za pravosudne dužnosnike koji nisu sudski savjetnici primaju se u državnu službu na neodređeno vrijeme i raspoređuju na radno mjesto viši sudski savjetnik u sudovima u koje ih rasporedi Državno sudbeno vijeće.
-
-(6) Ako viši savjetnik iz stavka 5. ovoga članka u roku utvrđenom posebnim zakonom ne završi Državnu školu za pravosudne dužnosnike, prestaje mu državna služba u sudu u kojem je raspoređen kao polaznik Državne škole za pravosudne dužnosnike.
-
 Članak 110.
 
 (1) Sudski savjetnici i viši sudski savjetnici sudjeluju u suđenju i ovlašteni su samostalno provoditi određene sudske postupke, ocjenjivati dokaze i utvrđivati činjenice.
@@ -1284,23 +1325,25 @@ XII. OSIGURANJE OSOBA, IMOVINE I OBJEKATA SUDOVA
 
 (1) Poslovi osiguranja osoba, imovine i objekata sudova obuhvaćaju sprječavanje protupravnih radnji usmjerenih prema osobi, objektu i imovini suda, sprječavanje unošenja oružja, oruđa, eksplozivnih naprava i drugih opasnih stvari ili tvari te uništenja ili otuđenja imovine.
 
-(2) Osiguranje osoba, imovine i objekata suda te održavanje reda u sudu obavljaju službenici pravosudne policije ili pravne osobe ovlaštene za poslove zaštite i osiguranja.
+(2) Osiguranje osoba, imovine i objekata suda te održavanje reda u sudu obavljaju službenici pravosudne policije, a iznimno i pravne osobe ovlaštene za poslove zaštite i osiguranja uz suglasnost ministra pravosuđa ako nije moguće osigurati da ove poslove obavljaju službenici pravosudne policije.
 
-(3) Poslovi iz stavka 1. ovoga članka obavljaju se uporabom tehničkih sredstava zaštite, tjelesnom snagom i sredstvima prisile.
+(3) Poslovi iz stavka 1. ovoga članka obavljaju se uporabom tehničkih sredstava zaštite i sredstvima prisile.
 
-(4) U obavljanju poslova osiguranja dopuštena su sredstva prisile: tjelesna snaga, zahvati privođenja, tehnike obrane i savladavanja, sredstva za vezivanje, palica, podražavajuća kemijska sredstva i vatreno oružje.
+(4) U obavljanju poslova osiguranja dopuštena su sredstva prisile: tjelesna snaga, sredstva za vezivanje, raspršivač s dopuštenim neškodljivim tvarima, palica, električni paralizator i vatreno oružje.
 
 (5) Uporaba tjelesne snage dopuštena je primjenom različitih tehnika obrane i zahvata za privođenje radi odbijanja napada ili savladavanja otpora osobe uz nanošenje najmanjih štetnih posljedica.
 
 (6) Sredstvo za vezivanje službeniku pravosudne policije dopušteno je uporabiti radi odbijanja napada, sprječavanja otpora i dovođenja osobe pod kontrolu radi predaje osobe službenicima policije.
 
-(7) Uporaba palice dopuštena je ako je uporaba tjelesne snage ostala bezuspješna ili njezina primjena ne jamči postizanje cilja primjene.
+(7) Raspršivač s dopuštenim neškodljivim tvarima službenik pravosudne policije može upotrijebiti radi savladavanja aktivnog otpora ako prosudi da bi se uporabom tog sredstva prisile postigao cilj uz manje štetnih posljedica.
 
-(8) Uporaba podražavajućih kemijskih sredstava dopuštena je ako je primjena blažih sredstava prisile ostala bezuspješna.
+(8) Uporaba palice dopuštena je ako je uporaba tjelesne snage ostala bezuspješna ili njezina primjena ne jamči postizanje cilja primjene.
 
-(9) Uporaba vatrenog oružja dopuštena je ako se drugim sredstvima prisile ne može odbiti istodoban ili izravno predstojeći protupravni napad kojim se ugrožava život službenika pravosudne policije ili drugih osoba. Službenik pravosudne policije će prije uporabe vatrenog oružja upozoriti osobu koja napada ako mu to okolnosti napada dopuštaju. Vatreno oružje nije dopušteno uporabiti ako bi se time ugrozio život druge osobe.
+(9) Električni paralizator može se primijeniti u slučajevima u kojima je dopuštena uporaba palice i vatrenog oružja ako se prosudi da bi se uporabom tog sredstva prisile postigao cilj uz manje štetnih posljedica.
 
-(10) Propise o načinu osiguranja osoba, imovine i objekata sudova donosi ministar pravosuđa.
+(10) Uporaba vatrenog oružja dopuštena je ako se drugim sredstvima prisile ne može odbiti istodoban ili izravno predstojeći protupravni napad kojim se ugrožava život službenika pravosudne policije ili drugih osoba. Službenik pravosudne policije će prije uporabe vatrenog oružja upozoriti osobu koja napada ako mu to okolnosti napada dopuštaju. Vatreno oružje nije dopušteno uporabiti ako bi se time ugrozio život druge osobe.
+
+(11) Propise o načinu osiguranja osoba, imovine i objekata sudova donosi ministar pravosuđa.
 
 Članak 114.
 
@@ -1326,9 +1369,11 @@ U obavljanju poslova osiguranja službenik pravosudne policije:
 
 Članak 116.
 
-(1) Sposobnost za obavljanje poslova službenika pravosudne policije utvrđuje zdravstvena komisija osnovana odlukom ministra pravosuđa. Službenik pravosudne policije koji je odlukom nadležne zdravstvene komisije proglašen nesposobnim za obavljanje poslova zbog oboljenja ili ozljede koja je nastupila u obavljanju službe ili povodom obavljanja službe, zadržava plaću i druga prava iz službeničkog odnosa do donošenja pravomoćnog rješenja o pravu na mirovinu, a najduže tri godine od dana donošenja odluke o nesposobnosti.
+(1) Posebna zdravstvena sposobnost za obavljanje poslova službenika pravosudne policije utvrđuje zdravstvena komisija osnovana odlukom ministra pravosuđa. Službenik pravosudne policije koji je odlukom nadležne zdravstvene komisije proglašen nesposobnim za obavljanje poslova zbog oboljenja ili ozljede koja je nastupila u obavljanju službe ili povodom obavljanja službe, zadržava plaću i druga prava iz službeničkog odnosa do donošenja pravomoćnog rješenja o pravu na mirovinu, a najduže tri godine od dana donošenja odluke o nesposobnosti.
 
-(2) Službenici pravosudne policije prava iz mirovinskog osiguranja ostvaruju prema posebnom zakonu.
+(2) Pravilnik o postupku utvrđivanja posebne zdravstvene sposobnosti za obavljanje poslova službenika pravosudne policije te o izboru članova i načinu rada zdravstvene komisije iz stavka 1. ovog članka donosi ministar pravosuđa.
+
+(3) Službenici pravosudne policije prava iz mirovinskog osiguranja ostvaruju prema posebnom zakonu.
 
 XIII. SUCI POROTNICI
 
@@ -1570,11 +1615,11 @@ Stupanjem na snagu ovoga Zakona prestaje važiti Zakon o sudovima (»Narodne nov
 
 Članak 146.
 
-Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2015.
 
-Klasa: 711-01/12-01/08
+Klasa: 022-03/14-01/164
 
-Zagreb, 22. veljače 2013.
+Zagreb, 13. ožujka 2015.
 
 HRVATSKI SABOR
 
@@ -1583,4 +1628,3 @@ Predsjednik
 Hrvatskoga sabora
 
 Josip Leko, v. r.
-
